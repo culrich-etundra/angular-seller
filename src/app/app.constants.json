@@ -1,10 +1,10 @@
 {
-  "appname": "Angular Seller",
-  "clientid": "XXXXXXXX-XXXX-XXXX-XXXXXXXXXXXX",
+  "appname": "Chipotle Admin App",
+  "clientid": "61307366-0EC9-4CB3-90E7-B52DF18987E4",
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
-  "bootswatchtheme": null,
+  "bootswatchtheme": "flatly",
   "scope": [
     "FullAccess",
     "AddressAdmin", 
