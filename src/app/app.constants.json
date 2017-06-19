@@ -1,10 +1,10 @@
 {
-  "appname": "Angular Seller",
-  "clientid": "XXXXXXXX-XXXX-XXXX-XXXXXXXXXXXX",
+  "appname": "Admin Interface",
+  "clientid": "EDB3E09B-3425-4FFB-A041-55FD4E358D4F",
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
-  "bootswatchtheme": null,
+  "bootswatchtheme": "yeti",
   "scope": [
     "FullAccess",
     "AddressAdmin", 
