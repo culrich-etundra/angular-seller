@@ -1,6 +1,6 @@
 {
-  "appname": "Angular Seller",
-  "clientid": "XXXXXXXX-XXXX-XXXX-XXXXXXXXXXXX",
+  "appname": "DSI Admin",
+  "clientid": "6DB68088-475A-4766-AC4E-6FF02033B91F",
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
