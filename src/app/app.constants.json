@@ -1,6 +1,6 @@
 {
-  "appname": "Angular Seller",
-  "clientid": "XXXXXXXX-XXXX-XXXX-XXXXXXXXXXXX",
+  "appname": "RPM Seller",
+  "clientid": "3FA16BC5-884E-4B94-8521-1AFBBAD151BC",
   "environment": "prod",
   "defaultstate": "home",
   "html5mode": true,
